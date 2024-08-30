@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772908042384",
+    "project_id": "whoru-653ab",
+    "storage_bucket": "whoru-653ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772908042384:android:20cf9530d5df6370467015",
+        "android_client_info": {
+          "package_name": "com.whoru.whoru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUTiUlnJ4TqCewiMWFB_h2-Gtmdgd5mYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
